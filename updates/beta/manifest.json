@@ -1,0 +1,8 @@
+{
+  "version": "0.0.0.1",
+  "notes": "First beta",
+  "minLoader": 1,
+  "minLauncher": 1,
+  "module": { "url": "https://github.com/Bloodhound-06/kerbside/releases/download/v0.0.0.1/Kerbside.Module-0.0.0.1.dll", "sha256": "40366b61880f18453ef923d9ad4d9e29162e3195bd0a35d7f36249c6b84bd4fb", "size": 5632, "signature": "K1ZeitA23lxH6aV4wta0FdKOG8sqYRjtT5/cpbOHuSly1O521j6Jx4FMVc+bagxpfEtf0Av0PTokylxffj9YoU+7XVsrGN4ZVZ315HYzu94YsxA7vBog1SUYq3kBZ3b9Bw8MWeARQTph49DsvLmS4bZF4AMwfml9uL0gFnUOBZsjHvJYVMaiB/TOY6WFrIwnZ2K+SVkkKwaLtu5e1K2aNz5qLKMO35K2OI8mm0qVufjjRODBjZ4srBvObrXYpXTSMEAGmpCSNFTBCqMyNIKAat7XVMOQgQ4X4Iuuiz/Qfv7/ADnNY4Hxdc4QC3FPU99vGfBWwXTh0lYAVjO6siqwPugXKirYd3SLV3chNF4AxY7Ts2pTyHQttX2bIlz3kYWb+gzv0UHGqq0tITcCPhoEP2sgKNmGDcJzB744K6bM26zSQ3fZ90hEyw7qO9vNpSynwkithLVCxpGYZuCp/i22Imvv9rxL35n5JKZvdjdrqBhx/E5eaYaxflbN+1CmUA7i" },
+  "app": { "url": "https://github.com/Bloodhound-06/kerbside/releases/download/v0.0.0.1/Kerbside.App-0.0.0.1.zip", "sha256": "3fdde14d963394f15858a9c77c8b194bd3fe702cafe029ea60d1e83c383e848b", "size": 64222806, "signature": "CyZfiHrzcxPl0D/1JNY2OOnJz2zEgDmFT17Ow8E5G0Lqkb6DUPkbR86n4+exLszbl+tiJprRb4iVbY83MHdCWKmAeEpIKVVE+kq7Blvw7N/A/5cmdJ9IqoJx0oFZFLEtaRGgkHdLCo87pexpat8J9esEuAVZ6JAxUY90JTV+16G0JgOKEw9yMlAHXUAvwBZmAn3RhebP6Ghup36flawn8P2SoLLPD866CPXGRgzrDOH3aLXo35Z/QoiHJB0AE+mC+SxJDBrJTAB/4baLw7fUP5Pta4I0B2F7n6zbYs8xVBMAxuoOI0lSXd/itDV4emADJNZWoVB5DagP8RM5InoTEGEffcCMD8JZKsRabbDTyGN1L7m7FzdEjLCSlGBXxQUg0qmo7TNlYFHLCmx0pfUxIQ5TfswTVL2g2hRX1tQZhY3SVRyQYjkp5hnnS7xL7TWEWGjO3YvFeDwnBobG6CtL+4HgJSmo7TVmgS69IhpFnIwqiaqkY6PhpcgHHr/apRLH" }
+}
